@@ -20,7 +20,7 @@ const Signup = () => {
         <div className="container mt-5" style={{ margin:'20px' ,padding:'20px'}}>
           <form>
            
-            <h3>Register</h3>
+            <h3>Sign Up</h3>
             <div className="row mb-3">
               <div className="col-md-6">
                 <label>
